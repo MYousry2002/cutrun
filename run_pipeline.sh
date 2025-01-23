@@ -9,11 +9,11 @@
 
 
 # Set the working directory
-cd ~/cut_run
+cd ~/cutrun
 
 # Activate conda environment
 source /home/me1117/anaconda3/etc/profile.d/conda.sh
 conda activate /home/me1117/anaconda3/envs/nextflow_env
 
 # Run the pipeline
-nextflow run nf-core/cutandrun -profile docker --input ./samplesheet.csv --genome mm10 --outdir ./results  --replicate_threshold 3  --normalisation_mode CPM --peakcaller SEACR,MACS2 -resume
+nextflow run nf-core/cutandrun -profile docker --input ./samplesheet.csv --genome mm10 --outdir ./results  --replicate_threshold 3  --normalisation_mode CPM --peakcaller MACS2 -resume

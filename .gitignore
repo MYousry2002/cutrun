@@ -1,0 +1,11 @@
+/fastq/
+/work/
+.nextflow/
+/results/02_alignment/bowtie2/target/markdup/*.bam
+/results/02_alignment/bowtie2/target/markdup/*.bam.bai
+/results/02_alignment/bowtie2/target/dedup/*.bam
+/results/02_alignment/bowtie2/target/dedup/*.bam.bai
+/results/03_peak_calling/01_bam_to_bedgraph/
+/results/03_peak_calling/02_clip_bed/
+/results/03_peak_calling/03_bed_to_bigwig/
+/results/03_peak_calling/06_fragments_from_bams

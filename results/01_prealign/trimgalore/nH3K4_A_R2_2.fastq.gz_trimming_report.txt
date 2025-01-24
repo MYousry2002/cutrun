@@ -1,0 +1,109 @@
+
+SUMMARISING RUN PARAMETERS
+==========================
+Input filename: nH3K4_A_R2_2.fastq.gz
+Trimming mode: paired-end
+Trim Galore version: 0.6.6
+Cutadapt version: 2.10
+Python version: could not detect
+Number of cores used for trimming: 4
+Quality Phred score cutoff: 20
+Quality encoding type selected: ASCII+33
+Using Illumina adapter for trimming (count: 1315). Second best hit was Nextera (count: 3)
+Adapter sequence: 'AGATCGGAAGAGC' (Illumina TruSeq, Sanger iPCR; auto-detected)
+Maximum trimming error rate: 0.1 (default)
+Minimum required adapter overlap (stringency): 1 bp
+Minimum required sequence length for both reads before a sequence pair gets removed: 20 bp
+Running FastQC on the data once trimming has completed
+Output file will be GZIP compressed
+
+
+This is cutadapt 2.10 with Python 3.8.5
+Command line parameters: -j 4 -e 0.1 -q 20 -O 1 -a AGATCGGAAGAGC nH3K4_A_R2_2.fastq.gz
+Processing reads on 4 cores in single-end mode ...
+Finished in 69.72 s (5 us/read; 11.52 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:              13,388,816
+Reads with adapters:                 4,985,879 (37.2%)
+Reads written (passing filters):    13,388,816 (100.0%)
+
+Total basepairs processed:   669,440,800 bp
+Quality-trimmed:                 871,499 bp (0.1%)
+Total written (filtered):    660,908,587 bp (98.7%)
+
+=== Adapter 1 ===
+
+Sequence: AGATCGGAAGAGC; Type: regular 3'; Length: 13; Trimmed: 4985879 times
+
+No. of allowed errors:
+0-9 bp: 0; 10-13 bp: 1
+
+Bases preceding removed adapters:
+  A: 32.8%
+  C: 28.3%
+  G: 19.1%
+  T: 19.8%
+  none/other: 0.0%
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+1	3520214	3347204.0	0	3520214
+2	1012360	836801.0	0	1012360
+3	307394	209200.2	0	307394
+4	73361	52300.1	0	73361
+5	19677	13075.0	0	19677
+6	6716	3268.8	0	6716
+7	5092	817.2	0	5092
+8	4367	204.3	0	4367
+9	4037	51.1	0	3835 202
+10	4385	12.8	1	4049 336
+11	3954	3.2	1	3759 195
+12	4338	0.8	1	4225 113
+13	3384	0.2	1	3324 60
+14	3040	0.2	1	2984 56
+15	1925	0.2	1	1847 78
+16	1404	0.2	1	1340 64
+17	942	0.2	1	893 49
+18	621	0.2	1	587 34
+19	1211	0.2	1	1173 38
+20	79	0.2	1	63 16
+21	44	0.2	1	32 12
+22	111	0.2	1	105 6
+23	208	0.2	1	181 27
+24	175	0.2	1	166 9
+25	23	0.2	1	20 3
+26	70	0.2	1	50 20
+27	183	0.2	1	174 9
+28	22	0.2	1	6 16
+29	35	0.2	1	26 9
+30	17	0.2	1	5 12
+31	43	0.2	1	32 11
+32	27	0.2	1	14 13
+33	134	0.2	1	115 19
+34	71	0.2	1	62 9
+35	14	0.2	1	8 6
+36	95	0.2	1	85 10
+37	25	0.2	1	14 11
+38	71	0.2	1	57 14
+39	23	0.2	1	14 9
+40	91	0.2	1	75 16
+41	156	0.2	1	140 16
+42	25	0.2	1	16 9
+43	95	0.2	1	81 14
+44	28	0.2	1	13 15
+45	488	0.2	1	446 42
+46	761	0.2	1	730 31
+47	107	0.2	1	68 39
+48	717	0.2	1	658 59
+49	2566	0.2	1	2372 194
+50	953	0.2	1	528 425
+
+RUN STATISTICS FOR INPUT FILE: nH3K4_A_R2_2.fastq.gz
+=============================================
+13388816 sequences processed in total
+
+Total number of sequences analysed for the sequence pair length validation: 13388816
+
+Number of sequence pairs removed because at least one read was shorter than the length cutoff (20 bp): 106050 (0.79%)

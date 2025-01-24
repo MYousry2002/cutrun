@@ -1,0 +1,106 @@
+
+SUMMARISING RUN PARAMETERS
+==========================
+Input filename: nIgG_A_R1_1.fastq.gz
+Trimming mode: paired-end
+Trim Galore version: 0.6.6
+Cutadapt version: 2.10
+Python version: could not detect
+Number of cores used for trimming: 4
+Quality Phred score cutoff: 20
+Quality encoding type selected: ASCII+33
+Using Illumina adapter for trimming (count: 1496). Second best hit was Nextera (count: 3)
+Adapter sequence: 'AGATCGGAAGAGC' (Illumina TruSeq, Sanger iPCR; auto-detected)
+Maximum trimming error rate: 0.1 (default)
+Minimum required adapter overlap (stringency): 1 bp
+Minimum required sequence length for both reads before a sequence pair gets removed: 20 bp
+Running FastQC on the data once trimming has completed
+Output file will be GZIP compressed
+
+
+This is cutadapt 2.10 with Python 3.8.5
+Command line parameters: -j 4 -e 0.1 -q 20 -O 1 -a AGATCGGAAGAGC nIgG_A_R1_1.fastq.gz
+Processing reads on 4 cores in single-end mode ...
+Finished in 148.14 s (5 us/read; 12.40 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:              30,607,068
+Reads with adapters:                11,356,083 (37.1%)
+Reads written (passing filters):    30,607,068 (100.0%)
+
+Total basepairs processed: 1,530,353,400 bp
+Quality-trimmed:               1,426,496 bp (0.1%)
+Total written (filtered):  1,501,472,557 bp (98.1%)
+
+=== Adapter 1 ===
+
+Sequence: AGATCGGAAGAGC; Type: regular 3'; Length: 13; Trimmed: 11356083 times
+
+No. of allowed errors:
+0-9 bp: 0; 10-13 bp: 1
+
+Bases preceding removed adapters:
+  A: 31.9%
+  C: 28.5%
+  G: 19.2%
+  T: 19.4%
+  none/other: 1.1%
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+1	7849522	7651767.0	0	7849522
+2	2271707	1912941.8	0	2271707
+3	696086	478235.4	0	696086
+4	160695	119558.9	0	160695
+5	44276	29889.7	0	44276
+6	16355	7472.4	0	16355
+7	12006	1868.1	0	12006
+8	10564	467.0	0	10564
+9	10020	116.8	0	9498 522
+10	10496	29.2	1	9736 760
+11	9468	7.3	1	8924 544
+12	9753	1.8	1	9403 350
+13	8806	0.5	1	8514 292
+14	7292	0.5	1	7026 266
+15	4854	0.5	1	4674 180
+16	3304	0.5	1	3184 120
+17	2273	0.5	1	2182 91
+18	1586	0.5	1	1513 73
+19	1099	0.5	1	1048 51
+20	936	0.5	1	895 41
+21	830	0.5	1	778 52
+22	632	0.5	1	596 36
+23	545	0.5	1	513 32
+24	325	0.5	1	289 36
+25	231	0.5	1	208 23
+26	102	0.5	1	83 19
+27	125	0.5	1	99 26
+28	101	0.5	1	81 20
+29	92	0.5	1	66 26
+30	59	0.5	1	40 19
+31	62	0.5	1	42 20
+32	72	0.5	1	44 28
+33	102	0.5	1	76 26
+34	230	0.5	1	198 32
+35	92	0.5	1	70 22
+36	61	0.5	1	39 22
+37	127	0.5	1	89 38
+38	222	0.5	1	167 55
+39	141	0.5	1	59 82
+40	185	0.5	1	65 120
+41	741	0.5	1	441 300
+42	742	0.5	1	87 655
+43	5054	0.5	1	145 4909
+44	10287	0.5	1	3233 7054
+45	5083	0.5	1	3853 1230
+46	431	0.5	1	88 343
+47	6403	0.5	1	27 6376
+48	5396	0.5	1	1281 4115
+49	6249	0.5	1	1460 4789
+50	180263	0.5	1	1123 179140
+
+RUN STATISTICS FOR INPUT FILE: nIgG_A_R1_1.fastq.gz
+=============================================
+30607068 sequences processed in total
+

@@ -1,0 +1,106 @@
+
+SUMMARISING RUN PARAMETERS
+==========================
+Input filename: H3K4_A_R2_1.fastq.gz
+Trimming mode: paired-end
+Trim Galore version: 0.6.6
+Cutadapt version: 2.10
+Python version: could not detect
+Number of cores used for trimming: 4
+Quality Phred score cutoff: 20
+Quality encoding type selected: ASCII+33
+Using Illumina adapter for trimming (count: 1899). Second best hit was Nextera (count: 5)
+Adapter sequence: 'AGATCGGAAGAGC' (Illumina TruSeq, Sanger iPCR; auto-detected)
+Maximum trimming error rate: 0.1 (default)
+Minimum required adapter overlap (stringency): 1 bp
+Minimum required sequence length for both reads before a sequence pair gets removed: 20 bp
+Running FastQC on the data once trimming has completed
+Output file will be GZIP compressed
+
+
+This is cutadapt 2.10 with Python 3.8.5
+Command line parameters: -j 4 -e 0.1 -q 20 -O 1 -a AGATCGGAAGAGC H3K4_A_R2_1.fastq.gz
+Processing reads on 4 cores in single-end mode ...
+Finished in 35.36 s (4 us/read; 14.41 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:               8,493,563
+Reads with adapters:                 3,058,091 (36.0%)
+Reads written (passing filters):     8,493,563 (100.0%)
+
+Total basepairs processed:   424,678,150 bp
+Quality-trimmed:                 614,777 bp (0.1%)
+Total written (filtered):    412,202,703 bp (97.1%)
+
+=== Adapter 1 ===
+
+Sequence: AGATCGGAAGAGC; Type: regular 3'; Length: 13; Trimmed: 3058091 times
+
+No. of allowed errors:
+0-9 bp: 0; 10-13 bp: 1
+
+Bases preceding removed adapters:
+  A: 28.9%
+  C: 29.5%
+  G: 18.5%
+  T: 17.9%
+  none/other: 5.1%
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+1	2036797	2123390.8	0	2036797
+2	640104	530847.7	0	640104
+3	172045	132711.9	0	172045
+4	35997	33178.0	0	35997
+5	7356	8294.5	0	7356
+6	679	2073.6	0	679
+7	346	518.4	0	346
+8	299	129.6	0	299
+9	429	32.4	0	298 131
+10	393	8.1	1	210 183
+11	330	2.0	1	198 132
+12	245	0.5	1	205 40
+13	181	0.1	1	164 17
+14	148	0.1	1	140 8
+15	147	0.1	1	130 17
+16	161	0.1	1	145 16
+17	140	0.1	1	125 15
+18	122	0.1	1	106 16
+19	110	0.1	1	97 13
+20	98	0.1	1	82 16
+21	123	0.1	1	109 14
+22	71	0.1	1	64 7
+23	129	0.1	1	117 12
+24	76	0.1	1	62 14
+25	69	0.1	1	55 14
+26	70	0.1	1	56 14
+27	62	0.1	1	50 12
+28	65	0.1	1	56 9
+29	83	0.1	1	76 7
+30	52	0.1	1	43 9
+31	48	0.1	1	38 10
+32	75	0.1	1	59 16
+33	53	0.1	1	41 12
+34	214	0.1	1	194 20
+35	70	0.1	1	54 16
+36	87	0.1	1	52 35
+37	187	0.1	1	158 29
+38	109	0.1	1	79 30
+39	131	0.1	1	68 63
+40	216	0.1	1	130 86
+41	644	0.1	1	408 236
+42	1236	0.1	1	138 1098
+43	6636	0.1	1	275 6361
+44	14501	0.1	1	2610 11891
+45	5179	0.1	1	3666 1513
+46	654	0.1	1	166 488
+47	8165	0.1	1	74 8091
+48	22684	0.1	1	1497 21187
+49	8750	0.1	1	4734 4016
+50	91525	0.1	1	1042 90483
+
+RUN STATISTICS FOR INPUT FILE: H3K4_A_R2_1.fastq.gz
+=============================================
+8493563 sequences processed in total
+

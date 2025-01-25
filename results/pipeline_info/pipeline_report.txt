@@ -1,0 +1,56 @@
+----------------------------------------------------
+                                        ,--./,-.
+        ___     __   __   __   ___     /,-._.--~\
+  |\ | |__  __ /  ` /  \ |__) |__         }  {
+  | \| |       \__, \__/ |  \ |___     \`-._,-`-,
+                                        `._,._,'
+  nf-core/cutandrun v3.2.2-g6e1125d
+----------------------------------------------------
+Run Name: intergalactic_roentgen
+
+## nf-core/cutandrun execution completed successfully! ##
+
+
+The workflow was completed at 2025-01-24T06:42:42.429803365-05:00 (duration: 8h 57m 45s)
+
+The command used to launch the workflow was as follows:
+
+  nextflow run nf-core/cutandrun -profile docker --input ./samplesheet.csv --genome mm10 --outdir ./results --replicate_threshold 3 --normalisation_mode CPM --peakcaller MACS2 -resume
+
+
+
+Pipeline Configuration:
+-----------------------
+ - revision: master
+ - runName: intergalactic_roentgen
+ - containerEngine: docker
+ - launchDir: /home/me1117/cutrun
+ - workDir: /home/me1117/cutrun/work
+ - projectDir: /home/me1117/.nextflow/assets/nf-core/cutandrun
+ - userName: me1117
+ - profile: docker
+ - configFiles: 
+ - input: ./samplesheet.csv
+ - genome: mm10
+ - bowtie2: s3://ngi-igenomes/igenomes//Mus_musculus/UCSC/mm10/Sequence/Bowtie2Index/
+ - gtf: s3://ngi-igenomes/igenomes//Mus_musculus/UCSC/mm10/Annotation/Genes/genes.gtf
+ - fasta: s3://ngi-igenomes/igenomes//Mus_musculus/UCSC/mm10/Sequence/WholeGenomeFasta/genome.fa
+ - normalisation_mode: CPM
+ - peakcaller: MACS2
+ - macs_gsize: 2700000000.0
+ - replicate_threshold: 3
+ - max_memory: 1024.GB
+ - Date Started: 2025-01-23T21:44:57.653097813-05:00
+ - Date Completed: 2025-01-24T06:42:42.429803365-05:00
+ - Pipeline script file path: /home/me1117/.nextflow/assets/nf-core/cutandrun/main.nf
+ - Pipeline script hash ID: de5b72f091727fd964f53dd974cc3c92
+ - Pipeline repository Git URL: https://github.com/nf-core/cutandrun
+ - Pipeline repository Git Commit: 6e1125d4fee4ea7c8b70ed836bb0e92a89e3305f
+ - Pipeline Git branch/tag: master
+ - Nextflow Version: 24.10.3
+ - Nextflow Build: 5933
+ - Nextflow Compile Timestamp: 16-12-2024 15:34 UTC
+
+--
+nf-core/cutandrun
+https://github.com/nf-core/cutandrun

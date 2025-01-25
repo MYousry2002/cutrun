@@ -1,0 +1,5 @@
+Sample	FastQC (raw)	Cutadapt	FastQC (trimmed)	Samtools alignment scores
+Cutadapt		2.10		
+FastQC (raw)	0.12.1			
+FastQC (trimmed)			0.11.9	
+Samtools alignment scores				1.17

@@ -1,0 +1,271 @@
+Module	Section	Sample Name	Source
+FastQC (raw)	all_sections	H3K27_A_R4	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/fastqc/H3K27_A_R4_1_fastqc.zip
+FastQC (raw)	all_sections	H3K4_N_R1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/fastqc/H3K4_N_R1_2_fastqc.zip
+FastQC (raw)	all_sections	H3K27_N_R1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/fastqc/H3K27_N_R1_1_fastqc.zip
+FastQC (raw)	all_sections	H3K27_A_R2	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/fastqc/H3K27_A_R2_1_fastqc.zip
+FastQC (raw)	all_sections	H3K4_N_R2	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/fastqc/H3K4_N_R2_1_fastqc.zip
+FastQC (raw)	all_sections	nH3K4_A_R2	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/fastqc/nH3K4_A_R2_1_fastqc.zip
+FastQC (raw)	all_sections	nH3K27_A_R3	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/fastqc/nH3K27_A_R3_2_fastqc.zip
+FastQC (raw)	all_sections	IgG_N_R1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/fastqc/IgG_N_R1_1_fastqc.zip
+FastQC (raw)	all_sections	H3K4_N_R3	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/fastqc/H3K4_N_R3_2_fastqc.zip
+FastQC (raw)	all_sections	nIgG_N_R1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/fastqc/nIgG_N_R1_1_fastqc.zip
+FastQC (raw)	all_sections	H3K27_A_R3	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/fastqc/H3K27_A_R3_2_fastqc.zip
+FastQC (raw)	all_sections	H3K27_N_R2	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/fastqc/H3K27_N_R2_2_fastqc.zip
+FastQC (raw)	all_sections	H3K4_N_R4	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/fastqc/H3K4_N_R4_1_fastqc.zip
+FastQC (raw)	all_sections	H3K4_A_R3	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/fastqc/H3K4_A_R3_2_fastqc.zip
+FastQC (raw)	all_sections	nH3K27_N_R1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/fastqc/nH3K27_N_R1_1_fastqc.zip
+FastQC (raw)	all_sections	nH3K27_N_R2	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/fastqc/nH3K27_N_R2_2_fastqc.zip
+FastQC (raw)	all_sections	nH3K4_N_R1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/fastqc/nH3K4_N_R1_2_fastqc.zip
+FastQC (raw)	all_sections	H3K27_N_R3	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/fastqc/H3K27_N_R3_2_fastqc.zip
+FastQC (raw)	all_sections	nH3K4_A_R1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/fastqc/nH3K4_A_R1_1_fastqc.zip
+FastQC (raw)	all_sections	H3K4_A_R1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/fastqc/H3K4_A_R1_2_fastqc.zip
+FastQC (raw)	all_sections	IgG_A_R1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/fastqc/IgG_A_R1_2_fastqc.zip
+FastQC (raw)	all_sections	H3K4_A_R4	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/fastqc/H3K4_A_R4_1_fastqc.zip
+FastQC (raw)	all_sections	nH3K4_A_R3	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/fastqc/nH3K4_A_R3_2_fastqc.zip
+FastQC (raw)	all_sections	nH3K27_N_R3	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/fastqc/nH3K27_N_R3_1_fastqc.zip
+FastQC (raw)	all_sections	H3K27_A_R1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/fastqc/H3K27_A_R1_2_fastqc.zip
+FastQC (raw)	all_sections	nH3K27_A_R1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/fastqc/nH3K27_A_R1_2_fastqc.zip
+FastQC (raw)	all_sections	H3K27_N_R4	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/fastqc/H3K27_N_R4_2_fastqc.zip
+FastQC (raw)	all_sections	nH3K4_N_R2	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/fastqc/nH3K4_N_R2_1_fastqc.zip
+FastQC (raw)	all_sections	nH3K27_A_R2	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/fastqc/nH3K27_A_R2_2_fastqc.zip
+FastQC (raw)	all_sections	H3K4_A_R2	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/fastqc/H3K4_A_R2_1_fastqc.zip
+FastQC (raw)	all_sections	nIgG_A_R1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/fastqc/nIgG_A_R1_2_fastqc.zip
+FastQC (raw)	all_sections	nH3K4_N_R3	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/fastqc/nH3K4_N_R3_2_fastqc.zip
+Cutadapt	all_sections	nIgG_A_R1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/nIgG_A_R1_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	nH3K27_A_R3	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/nH3K27_A_R3_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	nH3K4_A_R3	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/nH3K4_A_R3_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	H3K4_A_R3	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/H3K4_A_R3_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	nH3K27_N_R2	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/nH3K27_N_R2_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	nH3K4_A_R1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/nH3K4_A_R1_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	nH3K27_A_R2	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/nH3K27_A_R2_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	H3K4_A_R2	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/H3K4_A_R2_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	nH3K27_N_R1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/nH3K27_N_R1_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	H3K27_N_R2	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/H3K27_N_R2_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	H3K27_N_R1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/H3K27_N_R1_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	nH3K4_N_R3	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/nH3K4_N_R3_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	H3K27_N_R3	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/H3K27_N_R3_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	H3K27_A_R4	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/H3K27_A_R4_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	IgG_N_R1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/IgG_N_R1_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	IgG_A_R1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/IgG_A_R1_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	H3K4_N_R4	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/H3K4_N_R4_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	H3K4_N_R2	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/H3K4_N_R2_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	nH3K4_A_R2	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/nH3K4_A_R2_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	H3K27_A_R2	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/H3K27_A_R2_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	H3K4_A_R1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/H3K4_A_R1_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	H3K4_A_R4	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/H3K4_A_R4_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	nH3K4_N_R1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/nH3K4_N_R1_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	nH3K27_A_R1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/nH3K27_A_R1_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	H3K27_A_R3	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/H3K27_A_R3_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	nH3K27_N_R3	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/nH3K27_N_R3_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	H3K27_A_R1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/H3K27_A_R1_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	H3K27_N_R4	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/H3K27_N_R4_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	nH3K4_N_R2	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/nH3K4_N_R2_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	nIgG_N_R1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/nIgG_N_R1_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	H3K4_N_R1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/H3K4_N_R1_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	H3K4_N_R3	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/H3K4_N_R3_2.fastq.gz_trimming_report.txt
+FastQC (trimmed)	all_sections	nH3K4_N_R3_1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/fastqc/nH3K4_N_R3_1.trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	IgG_N_R1_2	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/fastqc/IgG_N_R1_2.trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	H3K27_A_R3_2	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/fastqc/H3K27_A_R3_2.trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	H3K4_A_R4_1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/fastqc/H3K4_A_R4_1.trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	nIgG_A_R1_2	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/fastqc/nIgG_A_R1_2.trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	nH3K4_N_R2_2	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/fastqc/nH3K4_N_R2_2.trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	nH3K27_A_R3_2	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/fastqc/nH3K27_A_R3_2.trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	H3K27_N_R3_2	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/fastqc/H3K27_N_R3_2.trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	IgG_A_R1_2	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/fastqc/IgG_A_R1_2.trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	H3K27_N_R3_1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/fastqc/H3K27_N_R3_1.trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	nH3K27_N_R2_1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/fastqc/nH3K27_N_R2_1.trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	nH3K4_A_R1_1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/fastqc/nH3K4_A_R1_1.trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	H3K4_A_R3_1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/fastqc/H3K4_A_R3_1.trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	H3K27_A_R1_1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/fastqc/H3K27_A_R1_1.trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	H3K4_N_R1_2	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/fastqc/H3K4_N_R1_2.trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	H3K27_N_R4_2	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/fastqc/H3K27_N_R4_2.trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	nH3K4_N_R3_2	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/fastqc/nH3K4_N_R3_2.trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	H3K27_N_R1_2	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/fastqc/H3K27_N_R1_2.trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	H3K4_N_R4_2	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/fastqc/H3K4_N_R4_2.trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	nH3K27_N_R1_1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/fastqc/nH3K27_N_R1_1.trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	nH3K27_A_R2_1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/fastqc/nH3K27_A_R2_1.trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	nH3K27_A_R2_2	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/fastqc/nH3K27_A_R2_2.trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	nH3K27_N_R1_2	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/fastqc/nH3K27_N_R1_2.trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	H3K4_N_R2_2	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/fastqc/H3K4_N_R2_2.trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	nH3K27_A_R1_1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/fastqc/nH3K27_A_R1_1.trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	nH3K4_N_R2_1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/fastqc/nH3K4_N_R2_1.trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	nH3K27_A_R3_1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/fastqc/nH3K27_A_R3_1.trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	IgG_A_R1_1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/fastqc/IgG_A_R1_1.trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	nH3K4_A_R2_1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/fastqc/nH3K4_A_R2_1.trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	H3K4_A_R1_1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/fastqc/H3K4_A_R1_1.trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	H3K27_A_R3_1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/fastqc/H3K27_A_R3_1.trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	H3K4_N_R4_1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/fastqc/H3K4_N_R4_1.trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	H3K27_A_R2_2	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/fastqc/H3K27_A_R2_2.trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	nH3K27_N_R2_2	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/fastqc/nH3K27_N_R2_2.trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	H3K4_A_R4_2	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/fastqc/H3K4_A_R4_2.trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	nH3K4_A_R3_2	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/fastqc/nH3K4_A_R3_2.trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	H3K4_N_R1_1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/fastqc/H3K4_N_R1_1.trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	nIgG_N_R1_1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/fastqc/nIgG_N_R1_1.trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	nH3K4_A_R2_2	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/fastqc/nH3K4_A_R2_2.trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	H3K4_A_R1_2	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/fastqc/H3K4_A_R1_2.trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	H3K27_A_R4_2	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/fastqc/H3K27_A_R4_2.trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	H3K4_A_R2_1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/fastqc/H3K4_A_R2_1.trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	H3K27_N_R1_1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/fastqc/H3K27_N_R1_1.trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	nH3K4_N_R1_2	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/fastqc/nH3K4_N_R1_2.trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	H3K27_N_R4_1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/fastqc/H3K27_N_R4_1.trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	H3K27_A_R2_1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/fastqc/H3K27_A_R2_1.trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	H3K4_N_R2_1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/fastqc/H3K4_N_R2_1.trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	H3K27_N_R2_1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/fastqc/H3K27_N_R2_1.trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	nH3K4_A_R3_1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/fastqc/nH3K4_A_R3_1.trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	nIgG_N_R1_2	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/fastqc/nIgG_N_R1_2.trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	nH3K27_A_R1_2	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/fastqc/nH3K27_A_R1_2.trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	nH3K4_A_R1_2	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/fastqc/nH3K4_A_R1_2.trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	nH3K27_N_R3_2	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/fastqc/nH3K27_N_R3_2.trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	H3K4_N_R3_1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/fastqc/H3K4_N_R3_1.trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	nH3K27_N_R3_1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/fastqc/nH3K27_N_R3_1.trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	H3K27_N_R2_2	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/fastqc/H3K27_N_R2_2.trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	H3K27_A_R4_1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/fastqc/H3K27_A_R4_1.trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	IgG_N_R1_1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/fastqc/IgG_N_R1_1.trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	H3K27_A_R1_2	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/fastqc/H3K27_A_R1_2.trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	H3K4_N_R3_2	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/fastqc/H3K4_N_R3_2.trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	nH3K4_N_R1_1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/fastqc/nH3K4_N_R1_1.trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	H3K4_A_R2_2	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/fastqc/H3K4_A_R2_2.trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	nIgG_A_R1_1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/fastqc/nIgG_A_R1_1.trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	H3K4_A_R3_2	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/trimgalore/fastqc/H3K4_A_R3_2.trimmed_fastqc.zip
+Bowtie2 (target)	all_sections	nH3K27_A_R3	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/bowtie2/nH3K27_A_R3.bowtie2.log
+Bowtie2 (target)	all_sections	H3K27_A_R1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/bowtie2/H3K27_A_R1.bowtie2.log
+Bowtie2 (target)	all_sections	nH3K4_A_R2	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/bowtie2/nH3K4_A_R2.bowtie2.log
+Bowtie2 (target)	all_sections	H3K27_A_R2	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/bowtie2/H3K27_A_R2.bowtie2.log
+Bowtie2 (target)	all_sections	H3K27_A_R3	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/bowtie2/H3K27_A_R3.bowtie2.log
+Bowtie2 (target)	all_sections	nH3K27_N_R1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/bowtie2/nH3K27_N_R1.bowtie2.log
+Bowtie2 (target)	all_sections	H3K27_N_R3	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/bowtie2/H3K27_N_R3.bowtie2.log
+Bowtie2 (target)	all_sections	nH3K27_A_R2	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/bowtie2/nH3K27_A_R2.bowtie2.log
+Bowtie2 (target)	all_sections	nH3K27_N_R3	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/bowtie2/nH3K27_N_R3.bowtie2.log
+Bowtie2 (target)	all_sections	H3K4_N_R1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/bowtie2/H3K4_N_R1.bowtie2.log
+Bowtie2 (target)	all_sections	nH3K4_N_R1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/bowtie2/nH3K4_N_R1.bowtie2.log
+Bowtie2 (target)	all_sections	nH3K27_A_R1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/bowtie2/nH3K27_A_R1.bowtie2.log
+Bowtie2 (target)	all_sections	H3K4_N_R2	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/bowtie2/H3K4_N_R2.bowtie2.log
+Bowtie2 (target)	all_sections	H3K4_A_R4	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/bowtie2/H3K4_A_R4.bowtie2.log
+Bowtie2 (target)	all_sections	H3K4_A_R3	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/bowtie2/H3K4_A_R3.bowtie2.log
+Bowtie2 (target)	all_sections	nH3K4_A_R1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/bowtie2/nH3K4_A_R1.bowtie2.log
+Bowtie2 (target)	all_sections	H3K27_N_R4	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/bowtie2/H3K27_N_R4.bowtie2.log
+Bowtie2 (target)	all_sections	IgG_A_R1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/bowtie2/IgG_A_R1.bowtie2.log
+Bowtie2 (target)	all_sections	H3K27_A_R4	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/bowtie2/H3K27_A_R4.bowtie2.log
+Bowtie2 (target)	all_sections	nIgG_N_R1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/bowtie2/nIgG_N_R1.bowtie2.log
+Bowtie2 (target)	all_sections	nIgG_A_R1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/bowtie2/nIgG_A_R1.bowtie2.log
+Bowtie2 (target)	all_sections	H3K4_A_R2	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/bowtie2/H3K4_A_R2.bowtie2.log
+Bowtie2 (target)	all_sections	H3K27_N_R2	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/bowtie2/H3K27_N_R2.bowtie2.log
+Bowtie2 (target)	all_sections	nH3K4_N_R3	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/bowtie2/nH3K4_N_R3.bowtie2.log
+Bowtie2 (target)	all_sections	IgG_N_R1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/bowtie2/IgG_N_R1.bowtie2.log
+Bowtie2 (target)	all_sections	H3K27_N_R1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/bowtie2/H3K27_N_R1.bowtie2.log
+Bowtie2 (target)	all_sections	H3K4_A_R1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/bowtie2/H3K4_A_R1.bowtie2.log
+Bowtie2 (target)	all_sections	nH3K27_N_R2	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/bowtie2/nH3K27_N_R2.bowtie2.log
+Bowtie2 (target)	all_sections	H3K4_N_R4	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/bowtie2/H3K4_N_R4.bowtie2.log
+Bowtie2 (target)	all_sections	nH3K4_N_R2	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/bowtie2/nH3K4_N_R2.bowtie2.log
+Bowtie2 (target)	all_sections	H3K4_N_R3	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/bowtie2/H3K4_N_R3.bowtie2.log
+Bowtie2 (target)	all_sections	nH3K4_A_R3	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/bowtie2/nH3K4_A_R3.bowtie2.log
+Samtools alignment scores	stats	nIgG_A_R1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/samtools/stats/nIgG_A_R1.stats
+Samtools alignment scores	stats	IgG_A_R1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/samtools/stats/IgG_A_R1.stats
+Samtools alignment scores	stats	nIgG_N_R1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/samtools/stats/nIgG_N_R1.stats
+Samtools alignment scores	stats	IgG_N_R1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/samtools/stats/IgG_N_R1.stats
+Samtools alignment scores	flagstat	IgG_A_R1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/samtools/flagstat/IgG_A_R1.flagstat
+Samtools alignment scores	flagstat	nIgG_N_R1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/samtools/flagstat/nIgG_N_R1.flagstat
+Samtools alignment scores	flagstat	nIgG_A_R1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/samtools/flagstat/nIgG_A_R1.flagstat
+Samtools alignment scores	flagstat	IgG_N_R1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/samtools/flagstat/IgG_N_R1.flagstat
+Samtools alignment scores	idxstats	nIgG_N_R1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/samtools/idxstats/nIgG_N_R1.idxstats
+Samtools alignment scores	idxstats	IgG_N_R1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/samtools/idxstats/IgG_N_R1.idxstats
+Samtools alignment scores	idxstats	nIgG_A_R1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/samtools/idxstats/nIgG_A_R1.idxstats
+Samtools alignment scores	idxstats	IgG_A_R1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/samtools/idxstats/IgG_A_R1.idxstats
+Library Complexity	all_sections	nH3K4_A_R2.lc_extrap	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/preseq/nH3K4_A_R2.lc_extrap.txt
+Library Complexity	all_sections	nH3K4_A_R1.lc_extrap	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/preseq/nH3K4_A_R1.lc_extrap.txt
+Library Complexity	all_sections	H3K4_A_R1.lc_extrap	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/preseq/H3K4_A_R1.lc_extrap.txt
+Library Complexity	all_sections	H3K4_N_R2.lc_extrap	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/preseq/H3K4_N_R2.lc_extrap.txt
+Library Complexity	all_sections	nH3K4_N_R1.lc_extrap	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/preseq/nH3K4_N_R1.lc_extrap.txt
+Library Complexity	all_sections	nH3K27_A_R1.lc_extrap	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/preseq/nH3K27_A_R1.lc_extrap.txt
+Library Complexity	all_sections	H3K4_A_R4.lc_extrap	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/preseq/H3K4_A_R4.lc_extrap.txt
+Library Complexity	all_sections	nH3K27_A_R3.lc_extrap	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/preseq/nH3K27_A_R3.lc_extrap.txt
+Library Complexity	all_sections	H3K27_N_R2.lc_extrap	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/preseq/H3K27_N_R2.lc_extrap.txt
+Library Complexity	all_sections	nH3K4_A_R3.lc_extrap	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/preseq/nH3K4_A_R3.lc_extrap.txt
+Library Complexity	all_sections	nIgG_N_R1.lc_extrap	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/preseq/nIgG_N_R1.lc_extrap.txt
+Library Complexity	all_sections	H3K4_A_R2.lc_extrap	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/preseq/H3K4_A_R2.lc_extrap.txt
+Library Complexity	all_sections	H3K27_A_R1.lc_extrap	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/preseq/H3K27_A_R1.lc_extrap.txt
+Library Complexity	all_sections	H3K4_N_R3.lc_extrap	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/preseq/H3K4_N_R3.lc_extrap.txt
+Library Complexity	all_sections	nIgG_A_R1.lc_extrap	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/preseq/nIgG_A_R1.lc_extrap.txt
+Library Complexity	all_sections	IgG_N_R1.lc_extrap	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/preseq/IgG_N_R1.lc_extrap.txt
+Library Complexity	all_sections	H3K27_A_R4.lc_extrap	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/preseq/H3K27_A_R4.lc_extrap.txt
+Library Complexity	all_sections	H3K27_A_R2.lc_extrap	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/preseq/H3K27_A_R2.lc_extrap.txt
+Library Complexity	all_sections	nH3K4_N_R2.lc_extrap	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/preseq/nH3K4_N_R2.lc_extrap.txt
+Library Complexity	all_sections	nH3K27_N_R2.lc_extrap	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/preseq/nH3K27_N_R2.lc_extrap.txt
+Library Complexity	all_sections	nH3K4_N_R3.lc_extrap	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/preseq/nH3K4_N_R3.lc_extrap.txt
+Library Complexity	all_sections	H3K27_N_R3.lc_extrap	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/preseq/H3K27_N_R3.lc_extrap.txt
+Library Complexity	all_sections	IgG_A_R1.lc_extrap	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/preseq/IgG_A_R1.lc_extrap.txt
+Library Complexity	all_sections	nH3K27_N_R1.lc_extrap	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/preseq/nH3K27_N_R1.lc_extrap.txt
+Library Complexity	all_sections	H3K27_N_R1.lc_extrap	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/preseq/H3K27_N_R1.lc_extrap.txt
+Library Complexity	all_sections	H3K4_N_R4.lc_extrap	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/preseq/H3K4_N_R4.lc_extrap.txt
+Library Complexity	all_sections	H3K27_A_R3.lc_extrap	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/preseq/H3K27_A_R3.lc_extrap.txt
+Library Complexity	all_sections	H3K27_N_R4.lc_extrap	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/preseq/H3K27_N_R4.lc_extrap.txt
+Library Complexity	all_sections	H3K4_A_R3.lc_extrap	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/preseq/H3K4_A_R3.lc_extrap.txt
+Library Complexity	all_sections	nH3K27_N_R3.lc_extrap	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/preseq/nH3K27_N_R3.lc_extrap.txt
+Library Complexity	all_sections	H3K4_N_R1.lc_extrap	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/preseq/H3K4_N_R1.lc_extrap.txt
+Library Complexity	all_sections	nH3K27_A_R2.lc_extrap	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/preseq/nH3K27_A_R2.lc_extrap.txt
+Picard duplication stats	DuplicationMetrics	H3K27_A_R3	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/picard/markduplicates/H3K27_A_R3.target.markdup.MarkDuplicates.metrics.txt
+Picard duplication stats	DuplicationMetrics	H3K27_N_R4	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/picard/markduplicates/H3K27_N_R4.target.markdup.MarkDuplicates.metrics.txt
+Picard duplication stats	DuplicationMetrics	H3K4_N_R1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/picard/markduplicates/H3K4_N_R1.target.markdup.MarkDuplicates.metrics.txt
+Picard duplication stats	DuplicationMetrics	nH3K4_A_R3	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/picard/markduplicates/nH3K4_A_R3.target.markdup.MarkDuplicates.metrics.txt
+Picard duplication stats	DuplicationMetrics	H3K4_A_R3	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/picard/markduplicates/H3K4_A_R3.target.markdup.MarkDuplicates.metrics.txt
+Picard duplication stats	DuplicationMetrics	nH3K27_A_R3	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/picard/markduplicates/nH3K27_A_R3.target.markdup.MarkDuplicates.metrics.txt
+Picard duplication stats	DuplicationMetrics	nH3K27_N_R2	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/picard/markduplicates/nH3K27_N_R2.target.markdup.MarkDuplicates.metrics.txt
+Picard duplication stats	DuplicationMetrics	H3K4_A_R4	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/picard/markduplicates/H3K4_A_R4.target.markdup.MarkDuplicates.metrics.txt
+Picard duplication stats	DuplicationMetrics	H3K4_A_R2	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/picard/markduplicates/H3K4_A_R2.target.markdup.MarkDuplicates.metrics.txt
+Picard duplication stats	DuplicationMetrics	nH3K4_N_R1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/picard/markduplicates/nH3K4_N_R1.target.markdup.MarkDuplicates.metrics.txt
+Picard duplication stats	DuplicationMetrics	H3K4_N_R4	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/picard/markduplicates/H3K4_N_R4.target.markdup.MarkDuplicates.metrics.txt
+Picard duplication stats	DuplicationMetrics	nH3K4_A_R2	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/picard/markduplicates/nH3K4_A_R2.target.markdup.MarkDuplicates.metrics.txt
+Picard duplication stats	DuplicationMetrics	H3K4_N_R3	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/picard/markduplicates/H3K4_N_R3.target.markdup.MarkDuplicates.metrics.txt
+Picard duplication stats	DuplicationMetrics	IgG_N_R1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/picard/markduplicates/IgG_N_R1.target.markdup.MarkDuplicates.metrics.txt
+Picard duplication stats	DuplicationMetrics	nIgG_A_R1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/picard/markduplicates/nIgG_A_R1.target.markdup.MarkDuplicates.metrics.txt
+Picard duplication stats	DuplicationMetrics	nH3K27_A_R1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/picard/markduplicates/nH3K27_A_R1.target.markdup.MarkDuplicates.metrics.txt
+Picard duplication stats	DuplicationMetrics	IgG_A_R1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/picard/markduplicates/IgG_A_R1.target.markdup.MarkDuplicates.metrics.txt
+Picard duplication stats	DuplicationMetrics	H3K27_A_R4	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/picard/markduplicates/H3K27_A_R4.target.markdup.MarkDuplicates.metrics.txt
+Picard duplication stats	DuplicationMetrics	nH3K4_N_R3	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/picard/markduplicates/nH3K4_N_R3.target.markdup.MarkDuplicates.metrics.txt
+Picard duplication stats	DuplicationMetrics	nH3K4_A_R1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/picard/markduplicates/nH3K4_A_R1.target.markdup.MarkDuplicates.metrics.txt
+Picard duplication stats	DuplicationMetrics	H3K27_A_R1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/picard/markduplicates/H3K27_A_R1.target.markdup.MarkDuplicates.metrics.txt
+Picard duplication stats	DuplicationMetrics	H3K4_N_R2	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/picard/markduplicates/H3K4_N_R2.target.markdup.MarkDuplicates.metrics.txt
+Picard duplication stats	DuplicationMetrics	nH3K4_N_R2	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/picard/markduplicates/nH3K4_N_R2.target.markdup.MarkDuplicates.metrics.txt
+Picard duplication stats	DuplicationMetrics	nH3K27_A_R2	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/picard/markduplicates/nH3K27_A_R2.target.markdup.MarkDuplicates.metrics.txt
+Picard duplication stats	DuplicationMetrics	nH3K27_N_R1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/picard/markduplicates/nH3K27_N_R1.target.markdup.MarkDuplicates.metrics.txt
+Picard duplication stats	DuplicationMetrics	H3K27_A_R2	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/picard/markduplicates/H3K27_A_R2.target.markdup.MarkDuplicates.metrics.txt
+Picard duplication stats	DuplicationMetrics	H3K27_N_R2	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/picard/markduplicates/H3K27_N_R2.target.markdup.MarkDuplicates.metrics.txt
+Picard duplication stats	DuplicationMetrics	H3K27_N_R3	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/picard/markduplicates/H3K27_N_R3.target.markdup.MarkDuplicates.metrics.txt
+Picard duplication stats	DuplicationMetrics	H3K4_A_R1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/picard/markduplicates/H3K4_A_R1.target.markdup.MarkDuplicates.metrics.txt
+Picard duplication stats	DuplicationMetrics	nH3K27_N_R3	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/picard/markduplicates/nH3K27_N_R3.target.markdup.MarkDuplicates.metrics.txt
+Picard duplication stats	DuplicationMetrics	nIgG_N_R1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/picard/markduplicates/nIgG_N_R1.target.markdup.MarkDuplicates.metrics.txt
+Picard duplication stats	DuplicationMetrics	H3K27_N_R1	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/picard/markduplicates/H3K27_N_R1.target.markdup.MarkDuplicates.metrics.txt
+Fragment QC	plotCorrelation	all_target_bams.plotCorrelation.mat.tab	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/deeptools/all_target_bams.plotCorrelation.mat.tab
+Fragment QC	plotPCA	all_target_bams.plotPCA.tab	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/deeptools/all_target_bams.plotPCA.tab
+Fragment QC	plotFingerprint	nIgG_A_R1.plotFingerprint.raw	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/deeptools/nIgG_A_R1.plotFingerprint.raw.txt
+Fragment QC	plotFingerprint	nH3K27_N_R3.plotFingerprint.raw	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/deeptools/nH3K27_N_R3.plotFingerprint.raw.txt
+Fragment QC	plotFingerprint	nIgG_N_R1.plotFingerprint.raw	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/deeptools/nIgG_N_R1.plotFingerprint.raw.txt
+Fragment QC	plotFingerprint	H3K27_A_R1.plotFingerprint.raw	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/deeptools/H3K27_A_R1.plotFingerprint.raw.txt
+Fragment QC	plotFingerprint	H3K27_A_R4.plotFingerprint.raw	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/deeptools/H3K27_A_R4.plotFingerprint.raw.txt
+Fragment QC	plotFingerprint	IgG_N_R1.plotFingerprint.raw	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/deeptools/IgG_N_R1.plotFingerprint.raw.txt
+Fragment QC	plotFingerprint	H3K4_A_R2.plotFingerprint.raw	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/deeptools/H3K4_A_R2.plotFingerprint.raw.txt
+Fragment QC	plotFingerprint	H3K27_N_R1.plotFingerprint.raw	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/deeptools/H3K27_N_R1.plotFingerprint.raw.txt
+Fragment QC	plotFingerprint	H3K4_N_R3.plotFingerprint.raw	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/deeptools/H3K4_N_R3.plotFingerprint.raw.txt
+Fragment QC	plotFingerprint	H3K4_N_R2.plotFingerprint.raw	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/deeptools/H3K4_N_R2.plotFingerprint.raw.txt
+Fragment QC	plotFingerprint	nH3K4_N_R1.plotFingerprint.raw	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/deeptools/nH3K4_N_R1.plotFingerprint.raw.txt
+Fragment QC	plotFingerprint	nH3K27_A_R1.plotFingerprint.raw	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/deeptools/nH3K27_A_R1.plotFingerprint.raw.txt
+Fragment QC	plotFingerprint	nH3K4_A_R3.plotFingerprint.raw	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/deeptools/nH3K4_A_R3.plotFingerprint.raw.txt
+Fragment QC	plotFingerprint	nH3K27_A_R3.plotFingerprint.raw	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/deeptools/nH3K27_A_R3.plotFingerprint.raw.txt
+Fragment QC	plotFingerprint	H3K27_A_R3.plotFingerprint.raw	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/deeptools/H3K27_A_R3.plotFingerprint.raw.txt
+Fragment QC	plotFingerprint	nH3K4_N_R3.plotFingerprint.raw	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/deeptools/nH3K4_N_R3.plotFingerprint.raw.txt
+Fragment QC	plotFingerprint	H3K4_N_R1.plotFingerprint.raw	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/deeptools/H3K4_N_R1.plotFingerprint.raw.txt
+Fragment QC	plotFingerprint	H3K27_N_R4.plotFingerprint.raw	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/deeptools/H3K27_N_R4.plotFingerprint.raw.txt
+Fragment QC	plotFingerprint	H3K4_A_R4.plotFingerprint.raw	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/deeptools/H3K4_A_R4.plotFingerprint.raw.txt
+Fragment QC	plotFingerprint	H3K4_A_R1.plotFingerprint.raw	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/deeptools/H3K4_A_R1.plotFingerprint.raw.txt
+Fragment QC	plotFingerprint	nH3K27_N_R2.plotFingerprint.raw	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/deeptools/nH3K27_N_R2.plotFingerprint.raw.txt
+Fragment QC	plotFingerprint	nH3K27_N_R1.plotFingerprint.raw	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/deeptools/nH3K27_N_R1.plotFingerprint.raw.txt
+Fragment QC	plotFingerprint	H3K4_A_R3.plotFingerprint.raw	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/deeptools/H3K4_A_R3.plotFingerprint.raw.txt
+Fragment QC	plotFingerprint	IgG_A_R1.plotFingerprint.raw	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/deeptools/IgG_A_R1.plotFingerprint.raw.txt
+Fragment QC	plotFingerprint	nH3K4_A_R1.plotFingerprint.raw	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/deeptools/nH3K4_A_R1.plotFingerprint.raw.txt
+Fragment QC	plotFingerprint	H3K27_A_R2.plotFingerprint.raw	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/deeptools/H3K27_A_R2.plotFingerprint.raw.txt
+Fragment QC	plotFingerprint	nH3K27_A_R2.plotFingerprint.raw	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/deeptools/nH3K27_A_R2.plotFingerprint.raw.txt
+Fragment QC	plotFingerprint	nH3K4_N_R2.plotFingerprint.raw	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/deeptools/nH3K4_N_R2.plotFingerprint.raw.txt
+Fragment QC	plotFingerprint	H3K27_N_R3.plotFingerprint.raw	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/deeptools/H3K27_N_R3.plotFingerprint.raw.txt
+Fragment QC	plotFingerprint	nH3K4_A_R2.plotFingerprint.raw	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/deeptools/nH3K4_A_R2.plotFingerprint.raw.txt
+Fragment QC	plotFingerprint	H3K4_N_R4.plotFingerprint.raw	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/deeptools/H3K4_N_R4.plotFingerprint.raw.txt
+Fragment QC	plotFingerprint	H3K27_N_R2.plotFingerprint.raw	/home/me1117/cutrun/work/c5/90518b7b4f3edcd5471dbb024d76ae/deeptools/H3K27_N_R2.plotFingerprint.raw.txt

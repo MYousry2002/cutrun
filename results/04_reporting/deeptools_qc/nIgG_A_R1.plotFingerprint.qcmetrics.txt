@@ -1,0 +1,2 @@
+Sample	AUC	Synthetic AUC	X-intercept	Synthetic X-intercept	Elbow Point	Synthetic Elbow Point	Synthetic JS Distance
+nIgG_A_R1.target.dedup.sorted.bam	0.35427984365174425	0.4928926324147728	2.2478678972994113e-06	2.6400101399797302e-169	0.5379080442200572	0.510473908879435	0.20888982149338492

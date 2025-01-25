@@ -9,3 +9,14 @@
 /results/03_peak_calling/02_clip_bed/
 /results/03_peak_calling/03_bed_to_bigwig/
 /results/03_peak_calling/06_fragments_from_bams
+/results/04_reporting/igv/genome.fa
+/results/04_reporting/igv/genome.fa.fai
+/results/04_reporting/igv/*.bigWig
+/results/04_reporting/deeptools_heatmaps/gene/*.computeMatrix.mat.gz
+/results/04_reporting/deeptools_heatmaps/gene/*.computeMatrix.vals.mat.tab
+/results/04_reporting/deeptools_heatmaps/gene_all/all_genes.computeMatrix.mat.gz
+/results/04_reporting/deeptools_heatmaps/gene_all/all_genes.computeMatrix.vals.mat.tab
+/results/04_reporting/deeptools_heatmaps/gene_all/all_genes.plotHeatmap.mat.tab
+/results/04_reporting/deeptools_heatmaps/peaks/*.computeMatrix.mat.gz
+/results/04_reporting/deeptools_heatmaps/peaks/*.computeMatrix.vals.mat.tab
+/results/04_reporting/deeptools_qc/all_bam.bamSummary.npz

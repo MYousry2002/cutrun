@@ -1,0 +1,2 @@
+Sample	AUC	Synthetic AUC	X-intercept	Synthetic X-intercept	Elbow Point	Synthetic Elbow Point	Synthetic JS Distance
+H3K27_N_R2.target.markdup.sorted.bam	0.2428860643235672	0.4922337090147476	2.901628974506288e-06	1.4132778510994045e-141	0.6767208110633309	0.5119768888346139	0.37495916804413176

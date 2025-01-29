@@ -1,0 +1,5 @@
+chr17	39845090	39846112	39845090,39845188	39845712,39846112	nH3K4_N_R2.macs2_peak_215,nH3K4_N_R1.macs2_peak_195	37,49	.,.	nH3K4_N_R2.macs2.peaks.cut.bed,nH3K4_N_R1.macs2.peaks.cut.bed	2
+chr2	98662249	98662458	98662249,98662249,98662249	98662455,98662455,98662458	nH3K4_N_R2.macs2_peak_271,nH3K4_N_R3.macs2_peak_221,nH3K4_N_R1.macs2_peak_258	1000,1743,1296	.,.,.	nH3K4_N_R2.macs2.peaks.cut.bed,nH3K4_N_R3.macs2.peaks.cut.bed,nH3K4_N_R1.macs2.peaks.cut.bed	3
+chr2	98666959	98667314	98666959,98666959,98666959	98667313,98667313,98667314	nH3K4_N_R1.macs2_peak_259,nH3K4_N_R3.macs2_peak_222,nH3K4_N_R2.macs2_peak_272	8456,10626,10940	.,.,.	nH3K4_N_R1.macs2.peaks.cut.bed,nH3K4_N_R3.macs2.peaks.cut.bed,nH3K4_N_R2.macs2.peaks.cut.bed	3
+chr9	3002533	3002726	3002533,3002534	3002714,3002726	nH3K4_N_R1.macs2_peak_484,nH3K4_N_R3.macs2_peak_383	33,31	.,.	nH3K4_N_R1.macs2.peaks.cut.bed,nH3K4_N_R3.macs2.peaks.cut.bed	2
+chr9	3006841	3007307	3006841,3007117	3007170,3007307	nH3K4_N_R3.macs2_peak_384,nH3K4_N_R2.macs2_peak_458	26,31	.,.	nH3K4_N_R3.macs2.peaks.cut.bed,nH3K4_N_R2.macs2.peaks.cut.bed	2

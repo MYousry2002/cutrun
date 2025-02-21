@@ -20,3 +20,5 @@
 /results/04_reporting/deeptools_heatmaps/peaks/*.computeMatrix.mat.gz
 /results/04_reporting/deeptools_heatmaps/peaks/*.computeMatrix.vals.mat.tab
 /results/04_reporting/deeptools_qc/all_bam.bamSummary.npz
+/downstream/gene_signatures/Mus_musculus.GRCm38.102.gtf
+/downstream/gene_signatures/Mus_musculus.GRCm38.102.gtf.db

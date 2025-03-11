@@ -3,10 +3,10 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Directory containing the BED files
-bed_dir = "/home/me1117/cutrun/gene_signatures/H3K4"  
+bed_dir = "/home/me1117/cutrun/downstream/gene_signatures/H3K4"
 
 # Define pathway pairs
-pathways = ["eff", "il2", "il6", "mem", "tgfb", "tcr"]
+pathways = ["eff", "il2", "il6", "mem", "tgfb", "tcr", "housekeeping"]
 file_pairs = [(f"H3K4_A_{p}_peaks_gene_intersections.bed", f"H3K4_N_{p}_peaks_gene_intersections.bed", p) for p in pathways]
 
 # Define total peaks for normalization
@@ -80,10 +80,10 @@ plt.show()
 
 ## older version
 # Directory containing the BED files
-bed_dir = "/home/me1117/cutrun/gene_signatures/H3K4"  
+bed_dir = "/home/me1117/cutrun/downstream/gene_signatures/H3K4"
 
 # Define pathway pairs
-pathways = ["eff", "il2", "il6", "mem", "tgfb", 'tcr']
+pathways = ["eff", "il2", "il6", "mem", "tgfb", "tcr", "housekeeping"]
 file_pairs = [(f"H3K4_A_{p}_peaks_gene_intersections.bed", f"H3K4_N_{p}_peaks_gene_intersections.bed", p) for p in pathways]
 
 # Define total peaks for normalization

@@ -116,10 +116,17 @@ extract_gene_locations(gtf_file, json_file, output_file)
 output_bed = "genelocs_tcr.bed"
 convert_gene_locs_to_bed(output_file, output_bed)
 
-"""
 # housekeeping genes
 json_file = "housekeeping.json"
 output_file = "housekeeping.tsv"
 extract_gene_locations(gtf_file, json_file, output_file)
 output_bed = "genelocs_housekeeping.bed"
+convert_gene_locs_to_bed(output_file, output_bed)
+
+"""
+# methionine genes
+json_file = "methionine.json"
+output_file = "methionine.tsv"
+extract_gene_locations(gtf_file, json_file, output_file)
+output_bed = "genelocs_methionine.bed"
 convert_gene_locs_to_bed(output_file, output_bed)

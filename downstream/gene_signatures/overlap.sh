@@ -66,6 +66,13 @@ echo "Intersection saved to H3K4_A_housekeeping_peaks_gene_intersections.bed"
 bedtools intersect -a genelocs_housekeeping.bed -b H3K4/H3K4_N.macs2.consensus.peaks.awk.bed    -wa -wb > H3K4/H3K4_N_housekeeping_peaks_gene_intersections.bed
 echo "Intersection saved to H3K4_N_housekeeping_peaks_gene_intersections.bed"
 
+# methionine
+bedtools intersect -a genelocs_methionine.bed -b H3K4/H3K4_A.macs2.consensus.peaks.awk.bed    -wa -wb > H3K4/H3K4_A_methionine_peaks_gene_intersections.bed
+echo "Intersection saved to H3K4_A_methionine_peaks_gene_intersections.bed"
+
+bedtools intersect -a genelocs_methionine.bed -b H3K4/H3K4_N.macs2.consensus.peaks.awk.bed    -wa -wb > H3K4/H3K4_N_methionine_peaks_gene_intersections.bed
+echo "Intersection saved to H3K4_N_methionine_peaks_gene_intersections.bed"
+
 
 ### H3K27
 
@@ -118,3 +125,11 @@ echo "Intersection saved to H3K27_A_housekeeping_peaks_gene_intersections.bed"
 
 bedtools intersect -a genelocs_housekeeping.bed -b H3K27/H3K27_N.macs2.consensus.peaks.awk.bed    -wa -wb > H3K27/H3K27_N_housekeeping_peaks_gene_intersections.bed
 echo "Intersection saved to H3K27_N_housekeeping_peaks_gene_intersections.bed"
+
+
+# methionine
+bedtools intersect -a genelocs_methionine.bed -b H3K27/H3K27_A.macs2.consensus.peaks.awk.bed    -wa -wb > H3K27/H3K27_A_methionine_peaks_gene_intersections.bed
+echo "Intersection saved to H3K27_A_methionine_peaks_gene_intersections.bed"
+
+bedtools intersect -a genelocs_methionine.bed -b H3K27/H3K27_N.macs2.consensus.peaks.awk.bed    -wa -wb > H3K27/H3K27_N_methionine_peaks_gene_intersections.bed
+echo "Intersection saved to H3K27_N_methionine_peaks_gene_intersections.bed"

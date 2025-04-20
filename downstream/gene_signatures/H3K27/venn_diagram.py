@@ -6,7 +6,7 @@ from matplotlib_venn import venn2
 bed_dir = "/home/me1117/cutrun/downstream/gene_signatures/H3K27"
 
 # Define pathway pairs
-pathways = ["eff", "il2", "il6", "mem", "tgfb", "housekeeping"]
+pathways = ["eff", "il2", "il6", "mem", "tgfb", "housekeeping", "methionine"]
 file_pairs = [(f"H3K27_A_{p}_peaks_gene_intersections.bed", f"H3K27_N_{p}_peaks_gene_intersections.bed", p) for p in pathways]
 
 # Function to extract gene names from the 4th column of a BED file

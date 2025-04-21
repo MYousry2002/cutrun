@@ -22,3 +22,8 @@
 /results/04_reporting/deeptools_qc/all_bam.bamSummary.npz
 /downstream/gene_signatures/Mus_musculus.GRCm38.102.gtf
 /downstream/gene_signatures/Mus_musculus.GRCm38.102.gtf.db
+/downstream/pathways/go_bp_beds/
+/downstream/pathways/hallmark_beds/
+/downstream/pathways/intersections/
+/downstream/pathways/Mus_musculus.GRCm38.102.gtf
+/downstream/pathways/Mus_musculus.GRCm38.102.gtf.db

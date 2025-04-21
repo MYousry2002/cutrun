@@ -2,42 +2,48 @@ import os
 import matplotlib.pyplot as plt
 from matplotlib_venn import venn2
 
-# Directory containing the BED files
+# Directory with intersected peak files (corrected logic: peaks intersecting gene sets)
 bed_dir = "/home/me1117/cutrun/downstream/gene_signatures/H3K4"
 
-# Define pathway pairs
-pathways = ["eff", "il2", "il6", "mem", "tgfb", "housekeeping", "methionine"]
-file_pairs = [(f"H3K4_A_{p}_peaks_gene_intersections.bed", f"H3K4_N_{p}_peaks_gene_intersections.bed", p) for p in pathways]
+# Updated pathway names to match corrected file naming
+pathways = [
+    "effector_vs_memory_cd8_up",
+    "il2_stat5_signaling",
+    "il6_jak_stat3_signaling",
+    "effector_vs_memory_cd8_dn",
+    "tgf_beta_signaling",
+    "housekeeping",
+    "methionine"
+]
 
-# Function to extract gene names from the 4th column of a BED file
-def extract_genes(file_path):
-    genes = set()
+# Function to extract unique peak coordinates from intersected BED file
+def extract_peaks(file_path):
+    peaks = set()
     with open(file_path, "r") as f:
         for line in f:
             parts = line.strip().split("\t")
-            if len(parts) >= 4:
-                genes.add(parts[3])  # Gene name is in column 4
-    return genes
+            if len(parts) >= 3:
+                # Use (chr, start, end) as unique peak identifier
+                peak_id = f"{parts[0]}:{parts[1]}-{parts[2]}"
+                peaks.add(peak_id)
+    return peaks
 
-# Generate Venn diagrams for each pathway
-for file_A, file_N, pathway in file_pairs:
-    path_A = os.path.join(bed_dir, file_A)
-    path_N = os.path.join(bed_dir, file_N)
-    
+# Create Venn diagrams for each pathway
+for pathway in pathways:
+    path_A = os.path.join(bed_dir, f"H3K4_A_{pathway}_genes_with_peaks.bed")
+    path_N = os.path.join(bed_dir, f"H3K4_N_{pathway}_genes_with_peaks.bed")
+
     if os.path.exists(path_A) and os.path.exists(path_N):
-        genes_A = extract_genes(path_A)
-        genes_N = extract_genes(path_N)
+        peaks_A = extract_peaks(path_A)
+        peaks_N = extract_peaks(path_N)
 
         plt.figure(figsize=(5, 5))
-        venn2([genes_A, genes_N], set_labels=(f"A_{pathway}", f"N_{pathway}"))  # Shortened labels
-        plt.title(f"H3K4_A vs H3K4_N ({pathway})")
-        
-        # Save file with short name
-        plot_filename = f"venn_{pathway}.png"
-        plt.savefig(plot_filename, dpi=300)
-        plt.show()
-        
-        print(f"Saved: {plot_filename}")
+        venn2([peaks_A, peaks_N], set_labels=(f"A", f"N"))
+        plt.title(f"Peak Overlap in H3K4 (Pathway: {pathway.replace('_', ' ')})")
 
+        out_file = f"venn_H3K4_{pathway}.png"
+        plt.savefig(out_file, dpi=300)
+        plt.show()
+        print(f"Saved: {out_file}")
     else:
-        print(f"Skipping {file_A} vs {file_N}: One or both files are missing.")
+        print(f"Skipping {pathway}: one or both files missing.")
